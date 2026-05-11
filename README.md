@@ -23,6 +23,4 @@ In this project, I tried to apply what we learned in class:
 4. Follow the menu on the screen to manage your store!
 
 ## About the Author
-- **Name:** Yasir
-- **Section:** Computer Science / Engineering
-- **Date:** May 2026<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/bedf48bc-b284-4ba9-95bc-a00d4637be99" />
+- **Name:** Yasir Emad
