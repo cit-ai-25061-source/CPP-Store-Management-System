@@ -11,7 +11,7 @@ struct Product {
 };
 
 Product inventory[100];
-int productCount = 0; // عداد لعدد المنتجات الحالية
+int productCount = 0;
 
 void addProduct() {
     if (productCount < 100) {
@@ -19,7 +19,7 @@ void addProduct() {
         cout << "ID: ";
         cin >> inventory[productCount].id;
         cout << "Name: ";
-        cin.ignore(); // لتنظيف ذاكرة الإدخال قبل قراءة الاسم
+        cin.ignore();
         getline(cin, inventory[productCount].name);
         cout << "Quantity: ";
         cin >> inventory[productCount].quantity;
